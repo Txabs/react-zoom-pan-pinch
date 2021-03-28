@@ -1,4 +1,4 @@
-# react-zoom-pan-pinch
+# dow-react-zoom-pan-pinch
 
 [![NPM](https://img.shields.io/npm/v/react-zoom-pan-pinch.svg)](https://www.npmjs.com/package/react-zoom-pan-pinch)
 ![npm bundle size](https://img.shields.io/bundlephobia/minzip/react-zoom-pan-pinch)
@@ -26,13 +26,13 @@
 ## Install
 
 ```bash
-npm install --save react-zoom-pan-pinch
+npm install --save dow-react-zoom-pan-pinch
 ```
 
 or
 
 ```bash
-yarn add react-zoom-pan-pinch
+yarn add dow-react-zoom-pan-pinch
 ```
 
 ## Usage
@@ -40,7 +40,7 @@ yarn add react-zoom-pan-pinch
 ```jsx
 import React, { Component } from "react";
 
-import { TransformWrapper, TransformComponent } from "react-zoom-pan-pinch";
+import { TransformWrapper, TransformComponent } from "dow-react-zoom-pan-pinch";
 
 class Example extends Component {
   render() {
@@ -60,7 +60,7 @@ or
 ```jsx
 import React, { Component } from "react";
 
-import { TransformWrapper, TransformComponent } from "react-zoom-pan-pinch";
+import { TransformWrapper, TransformComponent } from "dow-react-zoom-pan-pinch";
 
 class Example extends Component {
   render() {
